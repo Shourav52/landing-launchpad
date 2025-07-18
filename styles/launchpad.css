@@ -179,3 +179,28 @@ body{
     color: #B3B3B3;
     margin: 0px;
 }
+.banner-container{
+    width: 1140px;
+    height: 696.77px;
+    border-radius: 14px;
+    background-color: #FFFFFF;
+    margin: 151px 120px;
+    text-align: center;
+}
+.banner-container-title{
+    font-size: 50px;
+    font-weight: bold;
+    color: #000000;
+    padding-top: 71px;
+    margin-bottom: 20px;
+}
+.banner-container-description{
+    color: #00000050;
+     margin-bottom: 20px;
+}
+.banner-container-pic{
+    border-radius: 48px;
+    width: 840px;
+    height: 364.77px;
+    margin-top: 20px;
+}
