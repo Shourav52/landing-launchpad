@@ -256,3 +256,42 @@ legend{
     border-radius: 10px;
     border: none;
 }
+footer{
+    width: 1440px;
+    height: 428px;
+    background-color: #FFFFFF;
+}
+.footer-sector{
+    width: 531px;
+    height: 221px;
+    padding: 104px 450px;
+    text-align: center;
+}
+.footer-title{
+    font-size: 100px;
+    font-weight: bolder;
+    color: #4E47FF;
+    margin: 0px;
+    padding: 0px;
+}
+.footer-description{
+    color: #8987A1;
+    font-size: 16px;
+    margin: 0px;
+    padding: 0px;
+    
+}
+.list-iteam ul{
+   display: flex;
+   justify-content: space-around;
+}
+.list-iteam li{
+    list-style: none;
+}
+.list-iteam li a{
+    text-decoration: none;
+    color: #8987A1;
+    font-size: 16px;
+
+    
+}
