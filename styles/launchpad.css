@@ -204,3 +204,55 @@ body{
     height: 364.77px;
     margin-top: 20px;
 }
+.form-section{
+    display: flex;
+    padding-left:  137px;
+    padding-right: 150px;
+    justify-content: space-between;
+}
+section input[type="text"], section input[type="email"],section textarea{
+    border-radius: 10px;
+    background-color: white;
+    display: block;
+    border-color: #D6DDED;
+    border: none;
+    width: 497px;
+    gap: 10px;
+   
+    padding: 32px 20px ;
+    margin-bottom: 10px;
+}
+.column{
+    width: 50%;
+}
+
+legend{
+    font-size: 18px;
+    font-weight: 400;
+    margin-bottom: 5px;
+}
+.section-title1{
+    font-size: 97px;
+    font-weight: bold;
+    max-width: 528px;
+   
+}
+.form-section-title{
+    
+   text-align: center;
+    
+}
+.form-section{
+    width: 1140px;
+    height: 696.77px;
+}
+.btn-primary1{
+    padding: 12px 220px ;
+    background-color: #4E47FF;
+    font-size: 16px;
+    color: #FFFFFF;
+    
+    font-weight:bold ;
+    border-radius: 10px;
+    border: none;
+}
