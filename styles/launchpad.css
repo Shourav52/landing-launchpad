@@ -78,3 +78,36 @@ nav{
     height: 332px;
     border-radius: 48px;
 }
+.user-section{
+    width: 1140px;
+    height: 306px;
+    border-radius: 24px;
+    background-color: #4d47ff10;
+    text-align: center;
+    margin: 116px;
+}
+.user-views{
+   display: flex;
+   justify-content: space-around;
+   align-items: center;
+   
+}
+.user-title{
+    font-size: 38px;
+    font-weight: bold;
+    color: #252432;
+    padding-top: 50px;
+    margin: 0px;
+}
+.item-title{
+    font-size: 80px;
+    font-weight: bold;
+    color: #4E47FF;
+    margin-top: 30px;
+    margin-bottom: 0px;
+}
+.item-description{
+    font-size: 20px;
+    color: #00000050;
+    margin: 0px;
+}
